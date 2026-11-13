@@ -94,7 +94,7 @@ $ echo $MISSION
 
 ## 🎯 Ce que je cherche
 
-Un poste en **cybersécurité**, de préférence :
+Un poste en **cybersécurité** :
 
 - 🛡️ **Analyste SOC** : surveiller, détecter et analyser les alertes. Mes années à traiter des alertes QoS et à analyser des logs et des KPI sont un bon point de départ.
 - 🔎 **Audit cybersécurité** : identifier les faiblesses, les qualifier (CWE, sévérité) et recommander des correctifs.
