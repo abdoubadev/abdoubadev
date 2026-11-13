@@ -94,11 +94,14 @@ $ echo $MISSION
 
 ## 🎯 Ce que je cherche
 
-Un poste ou une alternance où je pourrai mêler **développement**, **qualité logicielle** et **sécurité**, c'est-à-dire un endroit où l'on construit des choses solides et où on les teste comme si quelqu'un voulait les casser.
+Un poste en **cybersécurité**, de préférence :
 
-> *« Un bon testeur casse le logiciel. Un bon pentester casse le système. Un bon dev répare les deux. »* 😄
+- 🛡️ **Analyste SOC** : surveiller, détecter et analyser les alertes. Mes années à traiter des alertes QoS et à analyser des logs et des KPI sont un bon point de départ.
+- 🔎 **Audit cybersécurité** : identifier les faiblesses, les qualifier (CWE, sévérité) et recommander des correctifs.
 
----
+Mon atout : je viens des **télécoms** (protocoles, réseaux, analyse de traces), avec un bagage de **développeur** et de **testeur** qui m'aide à comprendre comment les systèmes se construisent… et comment ils se cassent.
+
+> *« Un bon testeur casse le logiciel. Un bon pentester casse le système. Un bon analyste SOC voit venir l'attaque. »* 😄
 
 ## 🔗 Me retrouver
 
